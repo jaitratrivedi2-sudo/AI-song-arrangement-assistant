@@ -1,0 +1,17 @@
+# Core API framework
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.9.0
+python-dotenv>=1.0.1
+PyYAML>=6.0.1
+
+# NLP — pure Python, no C compiler required
+nltk>=3.8.1
+textblob>=0.18.0
+
+# Testing
+pytest>=8.2.2
+httpx>=0.27.0
+
+# File upload support
+python-multipart>=0.0.9

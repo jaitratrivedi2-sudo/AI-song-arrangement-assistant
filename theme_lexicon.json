@@ -1,0 +1,16 @@
+{
+  "love": ["love", "heart", "kiss", "romance", "darling", "sweetheart", "beloved", "lover", "together", "hold", "embrace", "forever", "always", "soul", "yours", "mine", "devotion", "adore", "cherish", "passion", "desire", "warmth", "tender", "gentle", "wedding", "attraction"],
+  "heartbreak": ["broken", "shattered", "heartbreak", "goodbye", "leave", "left", "apart", "separation", "divorce", "end", "over", "done", "miss", "without", "empty", "hollow", "tears", "cry", "wound", "scar", "hurt", "pain", "alone", "gone", "lost", "forget", "remember"],
+  "journey": ["road", "path", "walk", "travel", "move", "go", "leaving", "destination", "horizon", "map", "compass", "explore", "adventure", "wander", "far", "away", "distance", "miles", "direction", "forward", "onward", "trail", "bridge", "crossing", "border"],
+  "rebellion": ["rebel", "fight", "resist", "defy", "refuse", "against", "revolution", "uprising", "break", "free", "chains", "cage", "escape", "run", "system", "rules", "control", "power", "authority", "stand", "voice", "loud", "scream", "rise", "demand", "change", "protest"],
+  "nostalgia": ["remember", "memory", "past", "yesterday", "childhood", "home", "miss", "back", "then", "before", "simpler", "young", "youth", "grow", "recall", "echo", "trace", "remains", "still", "always"],
+  "hope": ["hope", "tomorrow", "better", "new", "change", "believe", "possible", "dream", "wish", "pray", "faith", "light", "dawn", "horizon", "rise", "begin", "start", "chance", "opportunity", "forward", "survive", "strength"],
+  "loss": ["loss", "death", "die", "gone", "funeral", "grave", "mourn", "grief", "farewell", "goodbye", "passing", "absent", "missing", "void", "hollow", "empty", "left", "last", "final", "end"],
+  "nature": ["mountain", "river", "ocean", "sea", "forest", "tree", "sky", "wind", "rain", "sun", "moon", "star", "flower", "field", "meadow", "stream", "earth", "leaf", "season", "storm", "thunder", "lightning", "snow", "waves", "sand", "shore", "stone"],
+  "freedom": ["free", "freedom", "liberate", "release", "open", "wide", "fly", "soar", "escape", "break", "wild", "untamed", "boundless", "infinite", "limitless", "breathe", "space", "room"],
+  "identity": ["who", "myself", "self", "real", "true", "authentic", "face", "mirror", "reflection", "inside", "within", "soul", "belong", "place", "know", "understand", "purpose", "reason", "exist", "become", "grow", "change", "evolve"],
+  "spirituality": ["god", "pray", "heaven", "divine", "holy", "sacred", "spirit", "soul", "eternal", "universe", "cosmos", "faith", "believe", "higher", "above", "beyond", "transcend", "grace", "light", "blessed", "angel", "miracle", "fate", "destiny", "purpose"],
+  "celebration": ["celebrate", "party", "dance", "tonight", "alive", "victory", "win", "cheer", "toast", "raise", "shine", "bright", "joy", "happy", "gather", "together", "friends", "fun", "lights", "glow", "music", "rhythm"],
+  "loneliness": ["alone", "lonely", "solitude", "isolation", "nobody", "empty", "silence", "quiet", "walls", "room", "dark", "shadow", "invisible", "unseen", "forgotten", "abandoned"],
+  "empowerment": ["strong", "power", "courage", "brave", "warrior", "stand", "rise", "unbreakable", "unstoppable", "fearless", "bold", "determined", "push", "fight", "overcome", "survive", "thrive", "champion", "winner", "voice"]
+}

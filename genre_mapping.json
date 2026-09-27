@@ -1,0 +1,32 @@
+{
+  "emotion_genre_map": {
+    "joy_high": ["pop", "electronic", "hip_hop"],
+    "joy_low": ["indie", "folk", "lo_fi"],
+    "sadness_high": ["indie", "folk", "classical"],
+    "sadness_low": ["lo_fi", "jazz", "rnb"],
+    "anger_high": ["rock", "hip_hop"],
+    "anger_low": ["indie", "rock"],
+    "fear_high": ["cinematic", "classical"],
+    "fear_low": ["lo_fi", "indie"],
+    "love_high": ["pop", "rnb"],
+    "love_low": ["folk", "indie", "jazz"],
+    "anticipation_high": ["electronic", "pop", "cinematic"],
+    "trust_high": ["folk", "country"]
+  },
+  "theme_genre_map": {
+    "love": ["pop", "rnb", "folk"],
+    "heartbreak": ["indie", "folk", "country", "rnb"],
+    "journey": ["folk", "country", "indie", "rock"],
+    "rebellion": ["rock", "hip_hop"],
+    "nostalgia": ["indie", "folk", "lo_fi", "country"],
+    "hope": ["pop", "indie"],
+    "loss": ["folk", "classical", "cinematic", "indie"],
+    "nature": ["folk", "country", "indie"],
+    "freedom": ["rock", "country", "folk"],
+    "identity": ["hip_hop", "indie", "rnb"],
+    "spirituality": ["folk", "classical"],
+    "celebration": ["pop", "electronic", "hip_hop"],
+    "loneliness": ["indie", "lo_fi", "folk"],
+    "empowerment": ["pop", "hip_hop", "rock"]
+  }
+}

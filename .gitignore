@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+*.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Models & Weights
+backend/models/emotion_model/*.pkl
+backend/models/emotion_model/*.pt
+backend/models/emotion_model/*.bin
+backend/models/instrument_model/*.pkl
+backend/models/instrument_model/*.pt
+backend/models/instrument_model/*.bin
+
+# Data
+backend/data/raw/*.csv
+backend/data/raw/*.json
+backend/data/processed/*.csv
+backend/data/processed/*.pkl
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.cache/
+.npm/
+
+# Docker
+*.env.docker
